@@ -42,4 +42,4 @@ svg.selectAll("text")
 }).attr("font-family", "sans-serif")
 .attr("font-size", "11px")
 .attr("fill", "red");
-};
+}
